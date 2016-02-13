@@ -1,0 +1,11 @@
+<?php
+    echo '<pre>';
+    var_dump(apache_get_modules());
+    echo '</pre>';
+    phpinfo();
+/* 
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+

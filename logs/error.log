@@ -1,0 +1,967 @@
+2016-02-12 15:31:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/base.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:31:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/cake.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:31:23 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/base.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:31:23 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/cake.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:33:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/cake.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:33:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/base.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:33:07 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/base.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:33:07 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/cake.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:33:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/base.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:33:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/cake.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:33:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/base.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:33:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/cake.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:34:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/base.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:34:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/cake.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:37:47 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/base.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:37:47 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/cake.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:37:49 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/base.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:37:49 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/cake.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:38:40 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/base.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:38:40 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/cake.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:38:41 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/base.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:38:41 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/cake.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:39:52 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/cake.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:39:52 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/base.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:43:02 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/cake.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:43:02 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/base.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:43:03 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Favicon.ico could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.ico',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /favicon.ico
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:43:50 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/base.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 15:43:50 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/cake.css
+Referer URL: http://myblog.loc/
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/myblog/htdocs/index.php(16): require('/var/www/myblog...')
+#2 {main}
+
+
+2016-02-12 17:20:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Style.css could not be found.
+Exception Attributes: array (
+  'class' => 'Style.css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /style.css
+Referer URL: http://myblog.loc/index.html
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:20:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/material-design-icons/Material-Design-Icons.woff2
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:20:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Regular.woff2
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:20:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Light.woff2
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:20:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Light.woff
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:20:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Regular.woff
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:20:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/material-design-icons/Material-Design-Icons.woff
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:20:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Regular.ttf
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:20:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Light.ttf
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:20:48 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/material-design-icons/Material-Design-Icons.ttf
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:21:15 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/grabbing.png
+Referer URL: http://myblog.loc/css/owl.carousel.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:24:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Medium.woff2
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:24:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Bold.woff2
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:24:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Light.woff2
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:24:05 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Medium.woff
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:24:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Bold.woff
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:24:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/material-design-icons/Material-Design-Icons.woff2
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:24:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Regular.woff2
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:24:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Bold.ttf
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:24:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Medium.ttf
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:24:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Light.woff
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:24:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/material-design-icons/Material-Design-Icons.woff
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:24:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Regular.woff
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:24:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Light.ttf
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:24:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Regular.ttf
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:24:06 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/material-design-icons/Material-Design-Icons.ttf
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:32:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Bold.woff2
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:32:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Regular.woff2
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:32:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/material-design-icons/Material-Design-Icons.woff2
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:32:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Medium.woff2
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:32:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Bold.woff
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:32:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/material-design-icons/Material-Design-Icons.woff
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:32:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Regular.woff
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:32:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Bold.ttf
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:32:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Medium.woff
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:32:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/material-design-icons/Material-Design-Icons.ttf
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:32:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Regular.ttf
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2016-02-12 17:32:22 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Font could not be found.
+Exception Attributes: array (
+  'class' => 'Font',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /font/roboto/Roboto-Medium.ttf
+Referer URL: http://myblog.loc/css/materialize.css
+Stack Trace:
+#0 /var/www/myblog/htdocs/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
