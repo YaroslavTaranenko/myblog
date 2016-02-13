@@ -19,10 +19,27 @@ class AdminController extends AppController{
     
     public function users($mode = 'view', $id = null){
         $this->loadModel('Users');
+        $this->loadModel('Roles');
         switch ($mode){
             case 'view': $users = $this->Users->find('all');
                 $this->set(compact('users'));
                 $this->render('users');
+                break;
+            case 'add': 
+                $user = $this->Users->newEntity();
+                if($this->request->is('post')){
+                    $user = $this->Users->patchEntity($user, $this->request->data);
+                    if($this->Users->save($user)){
+                        $this->Flash->success(__('User successfully added'));
+                        return $this->redirect(['action' => 'view']);
+                    }  else {
+                        $this->Flash->error(__('An Error occured'));
+                    }
+                }
+                $roles = $this->Roles->find('list');
+                $this->set(compact('user', 'roles'));
+                $this->set('_serialize', ['user', 'roles']);
+                $this->render('userAdd');
                 break;
         }
         
