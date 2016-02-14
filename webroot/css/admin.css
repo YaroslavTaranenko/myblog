@@ -23,14 +23,17 @@ header{
 }
 #panel{
     width: 250px;
-    display: inline-block;
+    display: block;
     min-height: 400px;
-    border: 2px solid black;
-    
+    border: 0px solid black;
+    font-size: 14px;
+    float: left;
 }
 #content{
-    display: inline-block;
+    display: block;
     width: calc(100% - 250px);
     min-height: 400px;
     border: 2px solid green;
+    font-size: 14px;
+    float: right;
 }

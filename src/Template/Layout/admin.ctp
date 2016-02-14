@@ -39,16 +39,23 @@ and open the template in the editor.
             <?= $this->fetch('title');?>
         </title>
         <?=$this->Html->css('admin');?>
-        <title></title>
+        <?=$this->Html->css('font-awesome.css');?>
+        <?=$this->Html->css('messages.css');?>
+        
     </head>
     <body>
         <main>
             <header></header>
             <section id="panel">
+                <?php
                 
+                
+                ?>
+                <div><i class="fa fa-user"></i> <?=$current_user['first_name']. ' ' .$current_user['last_name']?></div>
             </section>
             <section id="content">
-                
+                <?=$this->Flash->render();?>
+                <?=$this->fetch('content');?>
             </section>
         </main>
     </body>

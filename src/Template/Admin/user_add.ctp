@@ -10,7 +10,9 @@ echo $this->Form->input('password', ['label'=>'Password']);
 echo $this->Form->input('phone', ['label'=>'Phone']);
 echo $this->Form->input('skype', ['label'=>'Skype']);
 echo $this->Form->input('facebook', ['label'=>'Facebook']);
-echo $this->Form->input('foto', ['label'=>'Foto']);
+//echo $this->Form->input('foto', ['label'=>'Foto']);
+echo $this->Form->input('foto', ['type'=>'file', 'label'=>'Foto', 'class'=>'upload_btn']);
 echo $this->Form->input('roles_id', ['label'=>'Role']);
+echo $this->Form->submit('Add', ['class' => 'form_submit_btn']);
 echo $this->Form->end();
 ?>

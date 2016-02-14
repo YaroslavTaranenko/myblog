@@ -44,6 +44,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
             <?= $this->Html->image('http://cakephp.org/img/cake-logo.png') ?>
             <h1>Get the Ovens Ready</h1>
         </div>
+        <?=$this->Flash->render()?>
     </header>
     <div id="content">
         <div class="row">
