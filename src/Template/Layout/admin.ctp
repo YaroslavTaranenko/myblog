@@ -47,11 +47,9 @@ and open the template in the editor.
         <main>
             <header></header>
             <section id="panel">
-                <?php
-                
-                
-                ?>
+                <?php if(isset($current_user)):?>
                 <div><i class="fa fa-user"></i> <?=$current_user['first_name']. ' ' .$current_user['last_name']?></div>
+                <?php endif;?>
             </section>
             <section id="content">
                 <?=$this->Flash->render();?>

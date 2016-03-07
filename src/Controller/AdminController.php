@@ -30,7 +30,7 @@ class AdminController extends AppController{
         ]);
     }
     public function beforeFilter(Event $event) {
-        $this->Auth->allow('login');
+        $this->Auth->allow(['login', 'users']);
         parent::beforeFilter($event);
         
 
@@ -39,15 +39,13 @@ class AdminController extends AppController{
                         return;
         $this->set(compact('current_user'));
         
-        if($current_user['roles_id'] < 2){
-            if($this->request->params['action'] == 'logout')
-                return ;
-//            if($this->request->params['action'] == 'login')
-//                return ;
-            $this->Flash->forbidden(__('You shouldn\'t go there'));
-            $this->redirect('/');
-            
-        }
+//        if($current_user['roles_id'] < 2){
+//            if($this->request->params['action'] == 'logout')
+//                return ;            
+//            $this->Flash->forbidden(__('You shouldn\'t go there'));
+//            $this->redirect('/');
+//            
+//        }
     }
     
     public function display(){
@@ -68,7 +66,7 @@ class AdminController extends AppController{
                     $user = $this->Users->patchEntity($user, $this->request->data);
                     if($user = $this->Users->save($user)){
                         
-                        $this->uploadFile($this->request->data['foto'], $user);
+                        $user->foto = $this->uploadFile($this->request->data['foto'], $user);
                         $this->Flash->success(__('User successfully added'));
                         return $this->redirect(['action' => 'users', 'view']);
                     }  else {
@@ -82,11 +80,29 @@ class AdminController extends AppController{
                 break;
             case 'edit': 
                 $user = $this->Users->get($id);
+                //debug($user);
                 if($this->request->is(['patch', 'post', 'put'])){
-                    if($user->foto != $this->request->data['foto']){
-                        $this->uploadFile($this->request->data['foto'], $user);
-                    }
+                    $foto = $user->foto;
                     $user = $this->Users->patchEntity($user, $this->request->data);
+//                    debug($this->request->data['foto']);
+//                    return;
+                    if($this->request->data['foto']['size'] > 0){
+                        if($user->foto != $this->request->data['foto']['name']){
+                            $user->foto = $this->uploadFile($this->request->data['foto'], $user);
+
+                        }
+                    }else{
+                        $user->foto = $foto;
+                    }
+                    if($this->request->data['change_password']){
+                        if($this->request->data['change_password'] == $this->request->data['repeat_password']){
+                            $user->password = $this->request->data['change_password'];
+                        }  else {
+                            $this->Flash->error(__('Passwords didn\'t match'));
+                            return $this->redirect(['action' => 'users', 'edit', $id]);
+                        }
+                        
+                    }
                         
                     if($this->Users->save($user)){                        
                         $this->Flash->success(__('User successfully added'));
@@ -98,7 +114,7 @@ class AdminController extends AppController{
                 $roles = $this->Roles->find('list');
                 $this->set(compact('user', 'roles'));
                 $this->set('_serialize', ['user', 'roles']);
-                $this->render('userAdd');
+                $this->render('userEdit');
                 break;
             case 'delete':
                 $user = $this->Users->get($id);
@@ -127,7 +143,8 @@ class AdminController extends AppController{
                     return $this->redirect(['controller'=>'Pages', 'action'=>'display']);
                 }
             }  else {
-                $this->Flash->error(__('Username or password incorrect'));
+                $this->Flash->errorLogin(__('Username or password incorrect'));
+                return $this->redirect(['controller'=>'Admin', 'action'=>'login']);
             }
             
         }

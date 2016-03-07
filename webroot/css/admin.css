@@ -43,3 +43,61 @@ header{
     font-size: 14px;
     float: right;
 }
+.edit-form{
+    padding: 10px;
+}
+.edit-form .input{
+    margin: 5px 0;
+}
+.edit-form .input label{
+    display: inline-block;
+    width: 150px;
+}
+.edit-form .avatar{
+    width: 150px;
+    height: 150px;
+    border: 3px solid #e6a313;
+    margin: 10px 0 0 10px;
+    border-radius: 75px;
+    overflow: hidden;
+}
+.edit-form .avatar img{
+    width: 144px;
+    height: 144px;
+}
+.edit-form .file{
+    margin: 5px 0 20px 15px;
+    height: 30px;
+    width: 100px;
+    background: #333868;
+    color: #fff;
+    border: none;
+}
+.edit-form .file label{
+    width: 100px;
+    text-align: center;
+    line-height: 30px;
+}
+.btn{
+    height: 30px;
+    width: 100px;
+    background: #333868;
+    color: #fff;
+    border: none;
+}
+.btn:hover{
+    font-weight: bold;
+    box-shadow: 0px 0px 15px #333868
+}
+.btn:active{
+    font-weight: normal;
+}
+.file input.upload_btn{
+    filter: alpha(opacity=0);
+    opacity: 0;
+    height: 30px;
+    width: 100px;
+    background: #333868;
+    color: #fff;
+    border: none;
+}

@@ -18,6 +18,9 @@ div.message{
     border-radius: 10px;
     line-height: 50px;
     font-size: 20px;
+    text-align: center;
+    line-height: 30px;
+    background: #fff;
 }
 .hidden{
     display: none;
