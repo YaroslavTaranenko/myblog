@@ -45,11 +45,21 @@ and open the template in the editor.
     </head>
     <body>
         <main>
-            <header></header>
-            <section id="panel">
+            <header>
                 <?php if(isset($current_user)):?>
-                <div><i class="fa fa-user"></i> <?=$current_user['first_name']. ' ' .$current_user['last_name']?></div>
+                 <div class="user">
+                    <div class="avatar"><?=$this->Html->image('/img/users/'.$current_user['id'].'/'.$current_user['foto']);?></div>
+                    <div class="name"> <?=$current_user['first_name']. ' ' .$current_user['last_name']?></div>
+                </div>                
                 <?php endif;?>
+            </header>
+            <section id="panel">
+               
+                <ul class="admin-menu">
+                    <li><a href="/admin/users/view">Users</a></li>
+                    <li><a href="/admin/roles/view">Roles</a></li>
+                    <li><a href="/admin/articles/view">Articles</a></li>
+                </ul>
             </section>
             <section id="content">
                 <?=$this->Flash->render();?>

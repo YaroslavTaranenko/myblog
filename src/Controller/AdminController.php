@@ -30,7 +30,7 @@ class AdminController extends AppController{
         ]);
     }
     public function beforeFilter(Event $event) {
-        $this->Auth->allow(['login', 'users']);
+        $this->Auth->allow(['login']);
         parent::beforeFilter($event);
         
 
@@ -39,13 +39,13 @@ class AdminController extends AppController{
                         return;
         $this->set(compact('current_user'));
         
-//        if($current_user['roles_id'] < 2){
-//            if($this->request->params['action'] == 'logout')
-//                return ;            
-//            $this->Flash->forbidden(__('You shouldn\'t go there'));
-//            $this->redirect('/');
-//            
-//        }
+        if($current_user['roles_id'] < 2){
+            if($this->request->params['action'] == 'logout')
+                return ;            
+            $this->Flash->forbidden(__('You shouldn\'t go there'));
+            $this->redirect('/');
+            
+        }
     }
     
     public function display(){
